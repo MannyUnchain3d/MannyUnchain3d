@@ -9,6 +9,7 @@
 </p>
 <br>
 
+[![etetopat's 42 stats](https://badge.mediaplus.ma/binary/etetopat?1337Badge=off)](https://github.com/oakoudad/badge42)
 [![etetopat's 42 stats](https://badge42.vercel.app/api/v2/cl3leff82001109mhqx8mvqvv/stats?cursusId=21&coalitionId=208)](https://github.com/JaeSeoKim/badge42)
 <div align="center">
   <a href="https://github.com/manny-unchained">
