@@ -9,11 +9,13 @@
 </p>
 <br>
 
+[![etetopat's 42 stats](https://badge42.vercel.app/api/v2/cl3leff82001109mhqx8mvqvv/stats?cursusId=21&coalitionId=208)](https://github.com/JaeSeoKim/badge42)
 <div align="center">
   <a href="https://github.com/manny-unchained">
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=manny-unchained&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manny-unchained&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+	
   <h2> Languages And Tools </h2>
 <div style="display: inline_block"><br>
   <img align="center" alt="PJV-C" height="37" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
