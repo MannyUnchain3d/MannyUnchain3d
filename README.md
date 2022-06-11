@@ -1,4 +1,4 @@
-<h1 align="center">Hey There! I'm Manny <img width="35" src=https://github.com/manny-unchained/manny-unchained/resources/wave.gif></p>
+<h1 align="center">Hey There! I'm Manny <img width="35" src=https://github.com/manny-unchained/manny-unchained/resources/hi.gif></p>
 <p align="center">	
 <img src="https://readme-typing-svg.herokuapp.com/?color=%23E16797&size=23&center=true&lines=Student+Programmer+42Bangkok"></a>
 </p>
