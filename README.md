@@ -11,12 +11,8 @@
 
 [![etetopat's 42 stats](https://badge.mediaplus.ma/levi/etetopat?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
-<div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manny-unchained&theme=dracula&hide_title=false)](https://github.com/anuraghazra/github-readme-stats)[![manny-unchained's GitHub stats](https://github-readme-stats.vercel.app/api?username=manny-unchained&theme=dracula&show_icons=true&hide_rank=true&hide=issues&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
-	
   <h2> Languages And Tools </h2>
 <div style="display: inline_block"><br>
   <img align="center" alt="PJV-C" height="37" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
