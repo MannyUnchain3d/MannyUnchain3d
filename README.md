@@ -10,18 +10,12 @@
 <br>
 
 [![etetopat's 42 stats](https://badge.mediaplus.ma/levi/etetopat?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+
 <div align="center">
-  <a href="https://github.com/manny-unchained">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=manny unchained&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manny-unchained&layout=compact&langs_count=7&theme=dracula"/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manny-unchained&hide=java,html,css&layout=compact&theme=dracula&hide_title=false)](https://github.com/anuraghazra/github-readme-stats)[![manny-unchained's GitHub stats](https://github-readme-stats.vercel.app/api?username=manny-unchained&theme=dracula&show_icons=true&hide_rank=true&hide=issues&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
-	
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manny-unchained&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manny-unchained&repo=convoychat" />
-</a>
 	
   <h2> Languages And Tools </h2>
 <div style="display: inline_block"><br>
