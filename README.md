@@ -15,17 +15,14 @@
 
   <h2> Languages And Tools </h2>
 <div style="display: inline_block"><br>
-  <img align="center" alt="PJV-C" height="37" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="PJV-HTML" height="37" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="PJV-CSS" height="37" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="PJV-Git" height="37" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  <img align="center" alt="PJV-Bash" height="55" width="55" src="https://img.icons8.com/plasticine/100/000000/bash.png"/>
-  <img align="center" alt="PJV-Vim" height="37" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" />
-  <img align="center" alt="PJV-VS " height="37" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="PJV-Unix" height="40" width="40" src="https://img.icons8.com/color/344/unix.png">
-  <img align="center" alt="PJV-Unix" height="40" width="40" src="https://github.com/manny-unchained/manny-unchained/blob/main/resources/davinci-resolve-logo-298x280.png">
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img alt="PJV-C" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></a>
+  <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"> <img alt="cplusplus" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img alt="PJV-Bash" height="46" width="48" src="https://img.icons8.com/plasticine/100/000000/bash.png"/></a>
+  <a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img alt="PJV-Vim" height="37" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img alt="PJV-VS " height="37" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img alt="PJV-Git" height="37" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/></a>
 </div>
-	
+
   ##
 <h3>  Contact Me  </h3>
 <div> 
