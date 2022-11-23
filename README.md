@@ -21,7 +21,8 @@
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img alt="PJV-VS " height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></a>
   <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img alt="PJV-VS " height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" /></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img alt="PJV-Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
-  <a href="https://www.unity.com/" target="_blank" rel="noreferrer"> <img alt="PJV-Unity" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" /></a>
+  <a href="https://www.unity.com/" target="_blank" rel="noreferrer"> <img alt="PJV-Unity" height="40" width="40"
+src="https://github.com/manny-unchained/manny-unchained/blob/main/resources/unity.png" /></a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img alt="PJV-Linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></a>
 </div>
 
