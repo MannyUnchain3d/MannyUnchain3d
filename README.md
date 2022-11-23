@@ -18,7 +18,8 @@
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img alt="PVJ-C#" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /></a>
   <a href="https://www.unity.com/" target="_blank" rel="noreferrer"> <img alt="PJV-Unity" height="40" width="40"
 src="https://github.com/manny-unchained/manny-unchained/blob/main/resources/unity.png" /></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img alt="PJV-Bash" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /></a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img alt="PJV-Bash" height="40" width="40"
+src="https://github.com/manny-unchained/manny-unchained/blob/main/resources/bash.svg" /></a>
   <a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img alt="PJV-Vim" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" /></a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img alt="PJV-VS " height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></a>
   <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img alt="PJV-VS " height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" /></a>
