@@ -10,7 +10,8 @@
 <br>
 
 [![etetopat's 42 stats](https://badge.mediaplus.ma/levi/etetopat?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
-
+<br>
+![Manny's GitHub stats](https://github-readme-stats.vercel.app/api?username=MannyUnchain3d&show_icons=true&theme=dracula&bg_color=00000000)
 <div style="display: inline_block">
   <h3 align="center"> Languages And Tools </h3>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img alt="PVJ-C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></a>
@@ -19,6 +20,7 @@
 src="https://github.com/manny-unchained/manny-unchained/blob/main/resources/unreal-engine-white.svg" /></a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img alt="PJV-Bash" height="40" width="40"
 src="https://github.com/manny-unchained/manny-unchained/blob/main/resources/bash.svg" /></a>
+
   <a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img alt="PJV-Vim" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" /></a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img alt="PJV-VS " height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></a>
   <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img alt="PJV-VS " height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" /></a>
