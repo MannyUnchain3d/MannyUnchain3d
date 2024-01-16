@@ -1,8 +1,7 @@
 <h1 align="center">Hey There! I'm Manny <img width="35" src=https://github.com/manny-unchained/manny-unchained/blob/main/resources/hi.gif></p>
-<p align="center">	
-<img src="https://readme-typing-svg.herokuapp.com/?color=%23E16797&size=23&center=true&lines=Student+Programmer+42Bangkok"></a>
-</p>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dracula&weight=800&size=23&pause=1000&color=AB00FF&center=true&vCenter=true&random=false&width=435&lines=Self-Taught+Game+Developer;Student+Programmer+at+42+Bangkok)](https://git.io/typing-svg)
+  
 ![Snake animation](https://github.com/manny-unchained/manny-unchained/blob/main/resources/grid-snake.svg)
 <br>
 <h3 align="center">There are only 10 kinds of people in this world: those who know binary and those who don’t.
