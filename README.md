@@ -10,7 +10,6 @@
 
 [![etetopat's 42 stats](https://badge.mediaplus.ma/levi/etetopat?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 <br>
-![Manny's GitHub stats](https://github-readme-stats.vercel.app/api?username=MannyUnchain3d&show_icons=true&theme=dracula&bg_color=00000000)
 <div style="display: inline_block">
   <h3 align="center"> Languages And Tools </h3>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img alt="PVJ-C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></a>
