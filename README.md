@@ -19,7 +19,7 @@ src="https://github.com/manny-unchained/manny-unchained/blob/main/resources/unre
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img alt="PJV-Bash" height="40" width="40"
 src="https://github.com/manny-unchained/manny-unchained/blob/main/resources/bash.svg" /></a>
 
-  <a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img alt="PJV-Vim" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" /></a>
+  <a href="https://neovim.io/" target="_blank" rel="noreferrer"><img alt="PJV-Neovim" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" /></a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img alt="PJV-VS " height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></a>
   <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img alt="PJV-VS " height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" /></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img alt="PJV-Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
