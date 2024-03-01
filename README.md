@@ -16,6 +16,7 @@
   <a href="https://neovim.io/" target="_blank" rel="noreferrer"><img alt="PJV-Neovim" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" /></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img alt="PJV-Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
 </div>
+<br>
 
 <div style="display: inline_block">
   <h3 align="center"> Contact Me </h3>
