@@ -14,9 +14,11 @@
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img alt="PVJ-C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></a>
   <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img alt="PVJ-C++" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /></a>
   <a href="https://docs.unrealengine.com/5.3/en-US" target="_blank" rel="noreferrer"> <img alt="PJV-Unreal Engine" height="40" width="40" src="https://github.com/manny-unchained/manny-unchained/blob/main/resources/unreal-engine-white.svg" /></a>
-  <a href="https://archlinux.org/" target="_blank" rel="noreferrer"><img alt="PJV-Arch-linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img alt="PJV-VS " height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></a>
+  <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img alt="PJV-VS " height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" /></a>
   <a href="https://neovim.io/" target="_blank" rel="noreferrer"><img alt="PJV-Neovim" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" /></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img alt="PJV-Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
+  <a href="https://archlinux.org/" target="_blank" rel="noreferrer"><img alt="PJV-Arch-linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" /></a>
 </div>
 <div style="display: inline_block">
   <h3 align="center"> Contact Me </h3>
