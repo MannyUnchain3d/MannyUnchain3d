@@ -6,10 +6,7 @@
 <h3 align="center">There are only 10 kinds of people in this world: those who know binary and those who don’t.</p>
 
 <div style="display: inline_block">
-<br>
 
-[![etetopat's 42 stats](https://badge.mediaplus.ma/colorfulwaves/etetopat?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
-<br>
   <h3 align="center"> Languages And Tools </h3>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img alt="PVJ-C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></a>
   <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img alt="PVJ-C++" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /></a>
@@ -27,6 +24,3 @@
   <a href="https://www.instagram.com/manny_unchain3d" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.twitter.com/MannyUnchain3d" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 </div>
-<br>
-
-![Anurag's GitHub stats](https://github-readme-stats-manapool987.vercel.app//api?username=mannyunchain3d&show_icons=true&theme=tokyonight&hide_title=true&hide=stars)
