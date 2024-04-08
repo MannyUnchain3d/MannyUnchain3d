@@ -6,17 +6,31 @@
 <h3 align="center">There are only 10 kinds of people in this world: those who know binary and those who don’t.</p>
 
 <div style="display: inline_block">
-
   <h3 align="center"> Languages And Tools </h3>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img alt="PVJ-C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></a>
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img alt="PVJ-C++" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /></a>
-  <a href="https://docs.unrealengine.com/5.3/en-US" target="_blank" rel="noreferrer"> <img alt="PJV-Unreal Engine" height="40" width="40" src="https://github.com/manny-unchained/manny-unchained/blob/main/resources/unreal-engine-white.svg" /></a>
+
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img alt="C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></a>
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img alt="C++" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /></a>
+  <a href="https://docs.unrealengine.com/5.3/en-US" target="_blank" rel="noreferrer"> <img alt="Unreal Engine" height="40" width="40" src="https://github.com/manny-unchained/manny-unchained/blob/main/resources/unreal-engine-white.svg" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img alt="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img alt="TypeScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img alt="HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img alt="CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /></a>
+  
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img alt="MongoDB" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" /></a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img alt="Express.js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" /></a>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img alt="React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /></a>
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img alt="Node.js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" /></a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img alt="Next.js " height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" /></a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img alt="Tailwindcss" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" /></a>
+  <a href="https://threejs.org/" target="_blank" rel="noreferrer"> <img alt="Three.js " height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg" /></a>
+
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img alt="PJV-VS " height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></a>
-  <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img alt="PJV-VS " height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" /></a>
-  <a href="https://neovim.io/" target="_blank" rel="noreferrer"><img alt="PJV-Neovim" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" /></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img alt="PJV-Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
+  <a href="https://neovim.io/" target="_blank" rel="noreferrer"><img alt="Neovim" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" /></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
   <a href="https://archlinux.org/" target="_blank" rel="noreferrer"><img alt="PJV-Arch-linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" /></a>
+  btw...
 </div>
+
 <div style="display: inline_block">
   <h3 align="center"> Contact Me </h3>
   <a href= "https://linkedin.com/in/mannytetopata/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
