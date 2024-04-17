@@ -1,6 +1,6 @@
 <h1 align="center">Hey There! I'm Manny <img width="35" src=https://github.com/manny-unchained/manny-unchained/blob/main/resources/hi.gif></p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dracula&weight=800&size=23&pause=1000&color=AB00FF&center=true&vCenter=true&random=false&width=435&lines=Game+Developer;Student+Programmer+at+42+Bangkok)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dracula&weight=800&size=23&pause=1000&color=800080&center=true&vCenter=true&random=false&width=435&lines=Game+Developer;Software+Developer;Lifelong+Learner)](https://git.io/typing-svg)
 ![Snake animation](https://github.com/manny-unchained/manny-unchained/blob/main/resources/grid-snake.svg)
 <br>
 <h3 align="center">"There are only 10 kinds of people in this world: those who know binary and those who don’t."</p>
@@ -25,7 +25,6 @@
 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img alt="Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" /></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img alt="PJV-VS " height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></a>
   <a href="https://neovim.io/" target="_blank" rel="noreferrer"><img alt="Neovim" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" /></a>
   <a href="https://www.lua.org/" target="_blank" rel="noreferrer"><img alt="Lua" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" /></a>
   <a href="https://archlinux.org/" target="_blank" rel="noreferrer"><img alt="PJV-Arch-linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" /></a>
