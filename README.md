@@ -2,9 +2,17 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dracula&weight=800&size=23&pause=1000&color=800080&center=true&vCenter=true&random=false&width=435&lines=Game+Developer;Software+Developer;Lifelong+Learner)](https://git.io/typing-svg)
 ![Snake animation](https://github.com/manny-unchained/manny-unchained/blob/main/resources/grid-snake.svg)
-<br>
 <h3 align="center">"There are only 10 kinds of people in this world: those who know binary and those who don’t."</p>
 <br>
+<div style="display: inline_block">
+  <h3 align="center"> Contact Me </h3>
+  <a href= "https://linkedin.com/in/mannytetopata/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href= "https://www.youtube.com/@unchain3d" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/manny_unchain3d" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.twitter.com/MannyUnchain3d" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+</div>
+<br>
+
 <div style="display: inline_block">
   <h3 align="center"> Languages And Tools I Use</h3>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img alt="C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></a>
@@ -30,15 +38,6 @@
   <a href="https://archlinux.org/" target="_blank" rel="noreferrer"><img alt="PJV-Arch-linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" /></a>
   btw...
 </div>
-<br>
-<div style="display: inline_block">
-  <h3 align="center"> Contact Me </h3>
-  <a href= "https://linkedin.com/in/mannytetopata/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href= "https://www.youtube.com/@unchain3d" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/manny_unchain3d" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.twitter.com/MannyUnchain3d" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-</div>
-<br>
 <br>
 
 ![GitHub stats](https://github-readme-stats-delta-weld-45.vercel.app/api?username=mannyunchain3d&show_icons=true&hide_title=true&theme=tokyonight)
